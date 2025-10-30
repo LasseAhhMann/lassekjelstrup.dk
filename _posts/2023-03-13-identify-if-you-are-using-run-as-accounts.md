@@ -40,5 +40,3 @@ If the connection name is *AzureRunAsConnection* or *AzureClassicRunAsConnection
 A **Run As Account** is basicly an application, so it is easy to replace. Instead of using the **Run As Account** simply register an application in Azure Active Directory and give it the access required for your automation to work.
 
 Then add a secret or a certificate and use the application for authentication instead.
-
-We have few tutorials, like [this one](/automation-app/azure-ad-integration/), that uses this approach for authentication.

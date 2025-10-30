@@ -3,7 +3,7 @@ layout: post
 title: "10,000 automation tasks completed at Energinet"
 ---
 
-Remember to celebrate your successes and share the good stories! This is the success story at the very first [Automation App](/automation-app) customer.
+Remember to celebrate your successes and share the good stories! This is the success story at the very first Automation App customer.
 
 ![Energinet Automation cake](/assets/images/post_energinet-automation-cake.webp)
 

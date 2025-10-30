@@ -7,7 +7,7 @@ We all know it; IT managers today are faced with the challenging tasks of shifti
 
 Here at Automize we believe in combining the best from both worlds within the Microsoft cloud and the ServiceNow IT Service Management landscape.
 
-Following that approach, we continue to enable innovation and optimize the management field – latest by developing a fully integrational application for Microsoft Azure Automation and your ServiceNow instance. See more info [here](/automation-app).
+Following that approach, we continue to enable innovation and optimize the management field – latest by developing a fully integrational application for Microsoft Azure Automation and your ServiceNow instance.
 
 ## So, what is this all about and how can my business benefit from all of this?
 
