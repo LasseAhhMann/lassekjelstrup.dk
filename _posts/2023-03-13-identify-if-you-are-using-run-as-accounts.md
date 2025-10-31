@@ -13,7 +13,7 @@ Here are some tips on how you can identify if you are using **Run As Accounts**.
 
 Navigate to [portal.azure.com](https://portal.azure.com) and open your Automation Account.
 
-![Run as accounts in the azure portal](/assets/images/post_identify-if-you-are-using-run-as-accounts.webp)
+![Run as accounts in the azure portal](/assets/images/identify-if-you-are-using-run-as-accounts.webp)
 
 Click on **Run as accounts** in the menu to the left and have a look at what has been created.
 

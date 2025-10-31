@@ -11,7 +11,7 @@ This approach will show you how you can use PowerShell to create secrets with an
 
 Navigate to [portal.azure.com](https://portal.azure.com) and open the App Registration for which you would like to create a secret.
 
-![Run as accounts in the azure portal](/assets/images/post_create-app-secret-that-never-expires-powershell.webp)
+![Run as accounts in the azure portal](/assets/images/create-app-secret-that-never-expires-powershell.webp)
 
 Locate the **Object ID** of your App registration and copy it.
 

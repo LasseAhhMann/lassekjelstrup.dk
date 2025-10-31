@@ -7,7 +7,7 @@ You may find yourself in a situation where you want to give access to a certain 
 
 One way to circumway this has been to set the field **Admin overrides** to false indicating that user must explicitly have the roles listed.
 
-![Setting Admin overrides](/assets/images/post_admin-override-acl.webp)
+![Setting Admin overrides](/assets/images/admin-override-acl.webp)
 
 Setting **Admin overrides** to false will however only take effect if **High-Security Plugin** is active and the system property **glide.security.admin.override.accessterm** is set to true.
 
